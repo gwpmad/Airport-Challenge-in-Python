@@ -1,5 +1,5 @@
 =========================
- Airport Challenge
+Airport Challenge
 =========================
 
 This was my Python attempt at the Makers Academy week 2 Airport Challenge (see the proper Ruby version [here](https://github.com/gwpmad/airport_challenge)).
